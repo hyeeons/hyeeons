@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=160&type=waving&text=Hello!&desc=Wellcome%20to%20HyunJeong's%20Github!&fontAlign=20&descAlign=27&descAlignY=80&animation=fadeIn&color=FFD377)
+![header](https://capsule-render.vercel.app/api?height=160&type=waving&text=Hello!&desc=Wellcome%20To%20HyunJeong's%20Github!&fontAlign=20&descAlign=27&descAlignY=80&animation=fadeIn&color=FFD377)
 - 👋 Hi, I’m Hyun Jeong
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Front-end development
